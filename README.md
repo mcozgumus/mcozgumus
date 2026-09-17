@@ -96,7 +96,7 @@ https://i.hizliresim.com/w0rinvle.png
 
 <br>
 
-<a href="https://github.com/mehmetcan1608">
+<a href="https://github.com/mcozgumus">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
