@@ -98,8 +98,8 @@ https://i.hizliresim.com/w0rinvle.png
 
 <a href="https://github.com/mcozgumus">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-darkv2.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/footer-lightv2.svg">
     <img src="./assets/footer-dark.svg" alt="Contact Mehmet Can Özgümüş" width="100%">
   </picture>
 </a>
