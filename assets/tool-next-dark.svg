@@ -1,0 +1,13 @@
+<svg width="760" height="320" viewBox="0 0 760 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Next Tool">
+  <rect width="760" height="320" rx="24" fill="#211F1D" stroke="#423A32"/>
+  <rect x="0" y="0" width="10" height="320" rx="5" fill="#E07C03"/>
+  <text x="36" y="48" fill="#B7A897" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="12" letter-spacing="1.15">T02</text>
+  <text x="724" y="48" text-anchor="end" fill="#B7A897" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="12" letter-spacing="1.15">PLUGIN / UTILITY</text>
+  <path d="M36 68H724" stroke="#423A32"/>
+  <text x="36" y="140" fill="#F6EBDD" font-family="Arial,Helvetica,sans-serif" font-size="36" font-weight="700" letter-spacing="-1.2">Next Tool</text>
+  <text x="36" y="190" fill="#B7A897" font-family="Arial,Helvetica,sans-serif" font-size="18">Reserved for the next practical tool you build</text>
+  <text x="36" y="218" fill="#B7A897" font-family="Arial,Helvetica,sans-serif" font-size="18">for design production, research or automation.</text>
+  <path d="M36 266H724" stroke="#423A32"/>
+  <circle cx="42" cy="292" r="5" fill="#DC542A"/>
+  <text x="58" y="297" fill="#B7A897" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="11" letter-spacing="1.1">PLANNED</text>
+</svg>

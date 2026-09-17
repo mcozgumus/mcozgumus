@@ -1,0 +1,15 @@
+<svg width="1600" height="270" viewBox="0 0 1600 270" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AI-Assisted Pictogram Comprehensibility and Campus Wayfinding Experience">
+  <rect width="1600" height="270" rx="24" fill="#FFF9F0" stroke="#DDD0C2"/>
+  <rect x="0" y="0" width="10" height="270" rx="5" fill="#B2BDB2"/>
+
+  <text x="42" y="50" fill="#77695D" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="12" letter-spacing="1.2">R01</text>
+  <text x="1558" y="50" text-anchor="end" fill="#77695D" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="12" letter-spacing="1.2">RESEARCH / PAPER</text>
+
+  <path d="M42 70H1558" stroke="#DDD0C2"/>
+
+  <text x="42" y="132" fill="#211C18" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="700" letter-spacing="-0.9">AI-Assisted Pictogram Comprehensibility</text>
+  <text x="42" y="172" fill="#211C18" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="700" letter-spacing="-0.9">and Campus Wayfinding Experience</text>
+
+  <text x="42" y="224" fill="#77695D" font-family="Georgia,Times New Roman,serif" font-size="18" font-style="italic">TÜBİTAK 2209-A · HCI · Visual Communication</text>
+  <text x="1558" y="224" text-anchor="end" fill="#77695D" font-family="Arial,Helvetica,sans-serif" font-size="17">Research in progress</text>
+</svg>

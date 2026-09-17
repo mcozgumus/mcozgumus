@@ -1,0 +1,8 @@
+<svg width="1600" height="250" viewBox="0 0 1600 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Contact">
+  <rect width="1600" height="250" rx="26" fill="#F8F3EA"/>
+  <path d="M64 178H1536" stroke="#DDD0C2"/>
+  <text x="64" y="64" fill="#E07C03" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="13" letter-spacing="1.2">04 / CONTACT</text>
+  <text x="64" y="138" fill="#211C18" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="700" letter-spacing="-1.6">github.com/mehmetcan1608</text>
+  <text x="64" y="214" fill="#77695D" font-family="Georgia,Times New Roman,serif" font-size="18" font-style="italic">design / software / research — one continuous practice</text>
+  <rect x="1478" y="204" width="58" height="5" rx="2.5" fill="#E07C03"/>
+</svg>

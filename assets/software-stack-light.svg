@@ -1,0 +1,54 @@
+<svg width="1600" height="400" viewBox="0 0 1600 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Software stack">
+  <rect width="1600" height="400" rx="26" fill="#F8F3EA"/>
+
+        <g transform="translate(74,74)">
+          <rect x="0" y="0" width="276" height="252" rx="24" fill="#FFF9F0" stroke="#DDD0C2"/>
+          <rect x="0" y="0" width="10" height="252" rx="5" fill="#5D3FD3"/>
+          <rect x="28" y="34" width="88" height="88" rx="20" fill="#F1E7D8" stroke="#DDD0C2"/>
+          <text x="72" y="89" text-anchor="middle" fill="#211C18" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" letter-spacing="-1">Ae</text>
+          <text x="28" y="168" fill="#211C18" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" letter-spacing="-0.8">After Effects</text>
+          <text x="28" y="204" fill="#77695D" font-family="Arial,Helvetica,sans-serif" font-size="15">Core creative software</text>
+          <text x="28" y="226" fill="#77695D" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="11" letter-spacing="1.1">TOOLSET</text>
+        </g>
+
+        <g transform="translate(372,74)">
+          <rect x="0" y="0" width="276" height="252" rx="24" fill="#FFF9F0" stroke="#DDD0C2"/>
+          <rect x="0" y="0" width="10" height="252" rx="5" fill="#31A8FF"/>
+          <rect x="28" y="34" width="88" height="88" rx="20" fill="#F1E7D8" stroke="#DDD0C2"/>
+          <text x="72" y="89" text-anchor="middle" fill="#211C18" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" letter-spacing="-1">Ps</text>
+          <text x="28" y="168" fill="#211C18" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" letter-spacing="-0.8">Photoshop</text>
+          <text x="28" y="204" fill="#77695D" font-family="Arial,Helvetica,sans-serif" font-size="15">Core creative software</text>
+          <text x="28" y="226" fill="#77695D" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="11" letter-spacing="1.1">TOOLSET</text>
+        </g>
+
+        <g transform="translate(670,74)">
+          <rect x="0" y="0" width="276" height="252" rx="24" fill="#FFF9F0" stroke="#DDD0C2"/>
+          <rect x="0" y="0" width="10" height="252" rx="5" fill="#FF9A00"/>
+          <rect x="28" y="34" width="88" height="88" rx="20" fill="#F1E7D8" stroke="#DDD0C2"/>
+          <text x="72" y="89" text-anchor="middle" fill="#211C18" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" letter-spacing="-1">Ai</text>
+          <text x="28" y="168" fill="#211C18" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" letter-spacing="-0.8">Illustrator</text>
+          <text x="28" y="204" fill="#77695D" font-family="Arial,Helvetica,sans-serif" font-size="15">Core creative software</text>
+          <text x="28" y="226" fill="#77695D" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="11" letter-spacing="1.1">TOOLSET</text>
+        </g>
+
+        <g transform="translate(968,74)">
+          <rect x="0" y="0" width="276" height="252" rx="24" fill="#FFF9F0" stroke="#DDD0C2"/>
+          <rect x="0" y="0" width="10" height="252" rx="5" fill="#F24E1E"/>
+          <rect x="28" y="34" width="88" height="88" rx="20" fill="#F1E7D8" stroke="#DDD0C2"/>
+          <text x="72" y="89" text-anchor="middle" fill="#211C18" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" letter-spacing="-1">Fg</text>
+          <text x="28" y="168" fill="#211C18" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" letter-spacing="-0.8">Figma</text>
+          <text x="28" y="204" fill="#77695D" font-family="Arial,Helvetica,sans-serif" font-size="15">Core creative software</text>
+          <text x="28" y="226" fill="#77695D" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="11" letter-spacing="1.1">TOOLSET</text>
+        </g>
+
+        <g transform="translate(1266,74)">
+          <rect x="0" y="0" width="276" height="252" rx="24" fill="#FFF9F0" stroke="#DDD0C2"/>
+          <rect x="0" y="0" width="10" height="252" rx="5" fill="#F5792A"/>
+          <rect x="28" y="34" width="88" height="88" rx="20" fill="#F1E7D8" stroke="#DDD0C2"/>
+          <text x="72" y="89" text-anchor="middle" fill="#211C18" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" letter-spacing="-1">Bl</text>
+          <text x="28" y="168" fill="#211C18" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" letter-spacing="-0.8">Blender</text>
+          <text x="28" y="204" fill="#77695D" font-family="Arial,Helvetica,sans-serif" font-size="15">Core creative software</text>
+          <text x="28" y="226" fill="#77695D" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="11" letter-spacing="1.1">TOOLSET</text>
+        </g>
+
+</svg>

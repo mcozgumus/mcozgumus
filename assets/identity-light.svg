@@ -1,0 +1,24 @@
+<svg width="1020" height="650" viewBox="0 0 1020 650" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Mehmet Can Özgümüş — Design Build Research">
+  <rect width="1020" height="650" rx="28" fill="#F8F3EA"/>
+  <rect x="1" y="1" width="1018" height="648" rx="27" stroke="#DDD0C2"/>
+
+  <text x="52" y="62" fill="#77695D" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="13" letter-spacing="1.25">MCO / DESIGN × SOFTWARE × RESEARCH</text>
+  <circle cx="962" cy="56" r="6" fill="#E07C03"/>
+
+  <text x="52" y="182" fill="#211C18" font-family="Arial,Helvetica,sans-serif" font-size="72" font-weight="700" letter-spacing="-3.6">DESIGN.</text>
+  <text x="52" y="258" fill="#211C18" font-family="Arial,Helvetica,sans-serif" font-size="72" font-weight="700" letter-spacing="-3.6">BUILD.</text>
+  <text x="52" y="334" fill="#211C18" font-family="Arial,Helvetica,sans-serif" font-size="72" font-weight="700" letter-spacing="-3.6">RESEARCH.</text>
+
+  <path d="M52 388H968" stroke="#DDD0C2"/>
+
+  <text x="52" y="440" fill="#211C18" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700">Mehmet Can Özgümüş</text>
+  <text x="52" y="478" fill="#77695D" font-family="Arial,Helvetica,sans-serif" font-size="19">Multidisciplinary Designer · Design Technologist</text>
+
+  <text x="52" y="536" fill="#77695D" font-family="Georgia,Times New Roman,serif" font-size="20" font-style="italic">design for science / systems for people</text>
+
+  <rect x="52" y="574" width="110" height="6" rx="3" fill="#E07C03"/>
+  <rect x="170" y="574" width="52" height="6" rx="3" fill="#DC542A"/>
+  <rect x="230" y="574" width="52" height="6" rx="3" fill="#B2BDB2"/>
+
+  <text x="968" y="610" text-anchor="end" fill="#77695D" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="11" letter-spacing="1.1">BURSA / TR / 2026</text>
+</svg>
