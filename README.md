@@ -15,7 +15,7 @@ https://i.hizliresim.com/w0rinvle.png
 <table>
   <tr>
     <td width="33%" valign="top">
-      <img src="https://i.hizliresim.com/w0rinvle.png" alt="Mehmet Can Özgümüş" width="100%">
+      <img src="https://i.hizliresim.com/lno1bksz.png" alt="Mehmet Can Özgümüş" width="100%">
     </td>
     <td width="67%" valign="top">
       <picture>
